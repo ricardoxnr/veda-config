@@ -1,5 +1,10 @@
 # Setup
 
+## Prerequisites
+
+- [Git](https://www.atlassian.com/git/tutorials/install-git)
+- [Node](http://nodejs.org/) v16 (To manage multiple node versions we recommend [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
+
 This repo contains all the content and configuration needed to setup your own instance of [veda-config](https://github.com/NASA-IMPACT/veda-config).
 
 The `veda-config` relies on the `veda-ui` submodule.  
@@ -8,17 +13,15 @@ Use `--recursive` flag when cloning `veda-config`, or initialize the submodules 
 git submodule update --init --recursive
 ```
 
-## Requirements
-To set up the development environment for this website, you'll need to install the following on your system:
-
-- [Node](http://nodejs.org/) v16 (To manage multiple node versions we recommend [nvm](https://github.com/creationix/nvm))
-- [Yarn](https://yarnpkg.com/) Package manager
-
-If you use [`nvm`](https://github.com/creationix/nvm), activate the desired Node version:
-
 ## Installation
 
-Install Node + package manager this repo depends on.
+If you use [`nvm`](https://github.com/creationix/nvm), activate the desired Node version by 
+
+```
+nvm use
+```
+
+Install Node + package manager(Yarn)  this repo depends on.
 
 ```
 nvm install
