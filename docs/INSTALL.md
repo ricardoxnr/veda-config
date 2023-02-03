@@ -3,21 +3,27 @@
 - [Git](https://www.atlassian.com/git/tutorials/install-git)
 - [Node](http://nodejs.org/) v16 (To manage multiple node versions we recommend to install [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
 
-1. (If using NVM) Install matching Node version by running the command below in terminal.
-```
-nvm install
-```
 
-2. Install package manager (Yarn)
+1. Install package manager (Yarn)
 
 ```
 npm -g install yarn
 ```
 
-3. Clone the repo by running the command below in terminal.
+2. Clone the repo by running the command below in terminal.
 
 ```
 git clone git@github.com:NASA-IMPACT/veda-config.git --recursive
+```
+Then change the directory to veda config in terminal by running the command below.
+
+```
+cd veda-config
+```
+
+3. (If using NVM) Install matching Node version by running the command below in terminal.
+```
+nvm install
 ```
 
 4. Run setup script by running the command below in terminal
