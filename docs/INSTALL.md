@@ -3,12 +3,12 @@
 - [Git](https://www.atlassian.com/git/tutorials/install-git)
 - [Node](http://nodejs.org/) v16 (To manage multiple node versions we recommend [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
 
-2. Install matching Node version (if using NVM) by running the command below
+1. (If using NVM) Install matching Node version by running the command below
 ```
 nvm install
 ```
 
-3. Install package manager (Yarn)
+1. Install package manager (Yarn)
 
 ```
 npm -g install yarn
