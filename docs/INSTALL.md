@@ -3,7 +3,7 @@
 - [Git](https://www.atlassian.com/git/tutorials/install-git)
 - [Node](http://nodejs.org/) v16 (To manage multiple node versions we recommend to install [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
 
-1. (If using NVM) Install matching Node version by running the command below
+1. (If using NVM) Install matching Node version by running the command below in terminal.
 ```
 nvm install
 ```
