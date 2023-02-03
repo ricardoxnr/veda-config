@@ -1,4 +1,4 @@
-1. Install prerequisites
+0. Install prerequisites
 
 - [Git](https://www.atlassian.com/git/tutorials/install-git)
 - [Node](http://nodejs.org/) v16 (To manage multiple node versions we recommend to install [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
