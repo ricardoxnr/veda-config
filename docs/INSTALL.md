@@ -15,7 +15,9 @@ npm -g install yarn
 - Sign up for github.com
 - Set up Git : https://docs.github.com/en/get-started/quickstart/set-up-git
 
-3. Clone the repo by running the command below in terminal.
+* You can also use GitHub Desktop: https://desktop.github.com/ . This documentation is written for github-cli, but some people feel much more comfortable with GUI. 
+
+1. Clone the repo by running the command below in terminal.
 
 ```
 git clone git@github.com:NASA-IMPACT/veda-config.git --recursive
